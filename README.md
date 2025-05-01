@@ -17,7 +17,6 @@ Automatically organizes files in a folder by their type (e.g. images, videos, do
   
 <br>
 
-
 - Images (.jpg, .png, etc.)
 
 - Documents (.pdf, .docx, etc.)
