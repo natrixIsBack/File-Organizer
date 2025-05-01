@@ -13,7 +13,10 @@ Automatically organizes files in a folder by their type (e.g. images, videos, do
 - Beginner-friendly
 <br>
 **🚀 Supported Categories**
-  <br>
+  
+<br>
+
+
 - Images (.jpg, .png, etc.)
 
 - Documents (.pdf, .docx, etc.)
