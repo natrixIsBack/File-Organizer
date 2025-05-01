@@ -11,7 +11,7 @@ Automatically organizes files in a folder by their type (e.g. images, videos, do
 - Cross-platform
 
 - Beginner-friendly
-
+<br>
 🚀 Supported Categories
 - Images (.jpg, .png, etc.)
 
