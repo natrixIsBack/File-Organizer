@@ -3,7 +3,7 @@ Automatically organizes files in a folder by their type (e.g. images, videos, do
 
 ## No external dependencies needed!
 
-##✅ Features
+**✅ Features**
 - Sorts files by extension
 
 - Easy to run via CLI
@@ -12,7 +12,7 @@ Automatically organizes files in a folder by their type (e.g. images, videos, do
 
 - Beginner-friendly
 <br>
-##🚀 Supported Categories<br>
+**🚀 Supported Categories**<br>
 - Images (.jpg, .png, etc.)
 
 - Documents (.pdf, .docx, etc.)
